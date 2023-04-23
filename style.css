@@ -1,0 +1,50 @@
+#bb
+{
+    text-align: center;
+    margin-top: 50px;
+}
+.border
+{
+    margin-top: 60px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+    margin-bottom: 40px;
+}
+.deposit
+{
+     background-color:slateblue;
+      padding: 5px 10px;
+      border-radius: 8px;
+}
+.withdraw
+{
+    background-color:lightsalmon;
+    padding: 5px 10px;
+    border-radius: 8px;
+
+}
+.balance
+{
+      background-color:  orange;
+      padding: 5px 10px;
+      border-radius: 8px;
+}
+.aa{
+    background-color: white;
+    padding: 30px;
+    margin-top: 60px;
+    box-shadow: 5px 5px 10px gray;;
+}
+.login2
+{
+    margin-top: 10px;
+}
+#cc
+{
+    display: none;
+}
+#box2
+{
+    margin-top: 40px;
+}
